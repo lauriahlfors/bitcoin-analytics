@@ -1,1 +1,1 @@
-# bitcoin-analytics
+# 💲 Bitcoin Analytics Application
